@@ -1,2 +1,3 @@
 # musical-rotary-phone
-Hello World Repository
+Hello World Repository. 
+Updated README
